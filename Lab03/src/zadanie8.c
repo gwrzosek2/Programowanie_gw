@@ -50,7 +50,7 @@ int main() {
 
   if (!isValidDate(rok1, miesiac1, dzien1) ||
       !isValidDate(rok2, miesiac2, dzien2)) {
-    printf("Podano niepoprawne daty.\n");
+    printf("Podano niepoprawne daty");
     return 1;
   }
   return 0;

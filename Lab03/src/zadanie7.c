@@ -43,9 +43,9 @@ int main() {
   scanf("%d", &dzien);
 
   if (isValidDate(rok, miesiac, dzien)) {
-    printf("Podana data jest poprawna.\n");
+    printf("Podana data jest poprawna");
   } else {
-    printf("Podana data jest niepoprawna.\n");
+    printf("Podana data jest niepoprawna");
   }
 
   return 0;
