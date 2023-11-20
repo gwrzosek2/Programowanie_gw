@@ -39,7 +39,7 @@ Napisz program który pobierze od użytkownika rok i sprawdzi czy jest on przest
 
 Napisz program który pobierze od użytkownika trzy liczby (dzień, miesiąc, rok) i sprawdzi czy tworzą poprawną datę.
 
-## Zadanie 8(*) - długie
+## Zadanie 8(\*) - długie
 
 Napisz program który pobierze od użytkownika sześć liczb (dzień1, miesiąc1, rok1, dzień2, miesiąc2, rok2) i obliczy ile lat, miesięcy i dni różni reprezentowanie przez nie daty.
 
@@ -65,13 +65,13 @@ Napisz program który dla wybranych kątów wyrażonych w radianach wypisze wart
 Przykład:
 
 ```
-Dla 0 radianów wybierz 1  
-Dla 1/6 Pi rad wybierz 2  
-Dla 1/4 Pi rad wybierz 3  
-Dla 1/3 Pi rad wybierz 4  
-Dla 1/2 Pi rad wybierz 5  
+Dla 0 radianów wybierz 1
+Dla 1/6 Pi rad wybierz 2
+Dla 1/4 Pi rad wybierz 3
+Dla 1/3 Pi rad wybierz 4
+Dla 1/2 Pi rad wybierz 5
 
-0  
+0
 
 0 radianów to 0 stopni
 ```
@@ -87,5 +87,3 @@ Napisz program który poprosi użytkownika o odgadnięcie liczby z zakresu 1-5. 
 ## Zadanie 16
 
 Napisz program który poprosi użytkownika o odgadnięcie liczby z zakresu 1-5. Użytkownik ma cztery szanse na odgadnięcie liczby, ale złośliwy program powinien zawsze informować o odgadnięciu złej liczby. Po ostatniej próbie użytkownika program podaje jako poprawną odpowiedź liczbę z zakesu 1-5 różną od liczb podanych przez użytkownika.
-
-
