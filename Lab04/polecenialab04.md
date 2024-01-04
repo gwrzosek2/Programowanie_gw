@@ -27,10 +27,10 @@ Napisz program który dla podanej tablicy dwówymiarowej o wartościach `0` lub 
 Przykład:
 {{1,0},{0,1}}
 ```
-|--|  
-|x |  
-| x|  
-|--|  
+|--|
+|x |
+| x|
+|--|
 ```
 ## Zadanie 7
 
