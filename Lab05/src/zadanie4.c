@@ -4,7 +4,7 @@
 int main() {
   char str[100];
 
-  printf("Enter a word to check if it's a palindrome: ");
+  printf("Wprowadz slowo: ");
   scanf("%s", str);
 
   int l = 0;
@@ -12,12 +12,12 @@ int main() {
 
   while (h > l) {
     if (str[l++] != str[h--]) {
-      printf("%s is not a palindrome\n", str);
+      printf("%s nie jest palinindromem\n", str);
       return 0;
     }
   }
 
-  printf("%s is a palindrome\n", str);
+  printf("%s jest palinindromem\n", str);
 
   return 0;
 }

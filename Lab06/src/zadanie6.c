@@ -11,10 +11,10 @@ int sumOfDigits(int number) {
 int main() {
   int number;
 
-  printf("Enter a number: ");
+  printf("Wprowadź liczbe: ");
   scanf("%d", &number);
 
-  printf("Sum of the digits: %d\n", sumOfDigits(number));
+  printf("Suma cyfr: %d\n", sumOfDigits(number));
 
   return 0;
 }

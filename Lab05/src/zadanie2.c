@@ -1,14 +1,12 @@
 #include <stdio.h>
 
-int czyTakieSame(char znak1, char znak2){
-    if(znak1 == znak2){
-        return 1;
-    }
-    else{
-        return 0;
-    }
+int czyTakieSame(char znak1, char znak2) {
+  if (znak1 == znak2) {
+    return 1;
+  } else {
+    return 0;
+  }
 }
-
 
 int main() {
   char znak1, znak2;
